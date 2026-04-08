@@ -1,0 +1,13 @@
+# ninja log v5
+2	348	1775647920018445307	appWebSocSv_autogen/timestamp	76683460979ce1df
+2	348	1775647920018445307	appWebSocSv_autogen/mocs_compilation.cpp	76683460979ce1df
+2	348	1775647920018445307	/home/gray/gray/Qt_project/aws_sv/WebSocSv/build/Desktop_Qt_6_9_3-Release/appWebSocSv_autogen/timestamp	76683460979ce1df
+2	348	1775647920018445307	/home/gray/gray/Qt_project/aws_sv/WebSocSv/build/Desktop_Qt_6_9_3-Release/appWebSocSv_autogen/mocs_compilation.cpp	76683460979ce1df
+349	1689	1775647921364380419	CMakeFiles/appWebSocSv.dir/Cpp_Module/StatModel.cpp.o	5619fa12d11ecd78
+349	2940	1775647922614320284	CMakeFiles/appWebSocSv.dir/Cpp_Module/Cpp_Module.cpp.o	aa2ccebd5d4b4142
+350	3337	1775647923011301202	CMakeFiles/appWebSocSv.dir/Cpp_Module/Hub.cpp.o	8f36a16f9be6542a
+349	3634	1775647923308286949	CMakeFiles/appWebSocSv.dir/main.cpp.o	482d676dfd9b8777
+350	4242	1775647923914257869	CMakeFiles/appWebSocSv.dir/Cpp_Module/WK_Soc.cpp.o	41d7969d676e60a4
+350	5543	1775647925218195408	CMakeFiles/appWebSocSv.dir/Cpp_Module/DB_PostgreSQL.cpp.o	17dc794e58a734d
+349	5685	1775647925359188665	CMakeFiles/appWebSocSv.dir/appWebSocSv_autogen/mocs_compilation.cpp.o	67b6d38ec0a0e615
+5685	5807	1775647925481182830	appWebSocSv	d44a4d1392096ca1

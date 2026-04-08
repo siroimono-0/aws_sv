@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appWebSocSv_FILE /home/gray/gray/Qt_project/aws_sv/WebSocSv/build/Desktop_Qt_6_9_3-Release/appWebSocSv)
+set(__QT_DEPLOY_TARGET_appWebSocSv_TYPE EXECUTABLE)
