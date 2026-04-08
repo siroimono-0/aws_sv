@@ -1,0 +1,9 @@
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/HttpSv.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/edit_cache.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/rebuild_cache.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/list_install_components.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/install.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/install/local.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/install/strip.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/HttpSv_autogen_timestamp_deps.dir
+/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/CMakeFiles/HttpSv_autogen.dir

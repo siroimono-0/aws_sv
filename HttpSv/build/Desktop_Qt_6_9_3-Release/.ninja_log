@@ -1,0 +1,9 @@
+# ninja log v5
+1	245	1775647455823337757	HttpSv_autogen/timestamp	53359c05da4a7d4d
+1	245	1775647455823337757	HttpSv_autogen/mocs_compilation.cpp	53359c05da4a7d4d
+1	245	1775647455823337757	/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/HttpSv_autogen/timestamp	53359c05da4a7d4d
+1	245	1775647455823337757	/home/gray/gray/Qt_project/aws_sv/HttpSv/build/Desktop_Qt_6_9_3-Release/HttpSv_autogen/mocs_compilation.cpp	53359c05da4a7d4d
+246	1563	1775647457144336767	CMakeFiles/HttpSv.dir/main.cpp.o	99801f97d50492e4
+246	1592	1775647457173336746	CMakeFiles/HttpSv.dir/HttpSv_autogen/mocs_compilation.cpp.o	41583fabdb1db961
+246	2046	1775647457627336405	CMakeFiles/HttpSv.dir/HttpSv.cpp.o	c3f2d25db55aef2e
+2046	2145	1775647457726606134	HttpSv	938b64d82e0fbbb3
