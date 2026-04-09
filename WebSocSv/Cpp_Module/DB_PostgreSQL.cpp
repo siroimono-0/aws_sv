@@ -6,7 +6,7 @@ DB_PostgreSQL::DB_PostgreSQL(QObject *parent)
     : QObject{parent}
 {
     // this->path = QStandardPaths::writableLocation(QStandardPaths::AppDataLocation);
-    this->path = "~/aws_sv/WebSocSv";
+    this->path = "/home/ubuntu/aws_sv/WebSocSv/SQLITE";
     this->aws_psql_endPoint = "ev-postgres-db.cr66uie6ye06.ap-southeast-2.rds.amazonaws.com";
 
     this->p_timer_lite = new QTimer();
