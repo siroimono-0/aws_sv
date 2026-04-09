@@ -5,7 +5,9 @@
 DB_PostgreSQL::DB_PostgreSQL(QObject *parent)
     : QObject{parent}
 {
-    this->path = QStandardPaths::writableLocation(QStandardPaths::AppDataLocation);
+    // this->path = QStandardPaths::writableLocation(QStandardPaths::AppDataLocation);
+    this->path = "~/aws_sv/WebSocSv";
+    this->aws_psql_endPoint = "ev-postgres-db.cr66uie6ye06.ap-southeast-2.rds.amazonaws.com";
 
     this->p_timer_lite = new QTimer();
     this->p_timer_lite->start(60000);
@@ -68,10 +70,10 @@ void DB_PostgreSQL::createDB()
     qDebug() << QLibraryInfo::path(QLibraryInfo::PluginsPath);
 
     this->db = QSqlDatabase::addDatabase("QPSQL", "DB_THREAD_CONN_PG");
-    this->db.setHostName("localhost");
-    this->db.setDatabaseName("HMI_Users");
+    this->db.setHostName(this->aws_psql_endPoint);
+    this->db.setDatabaseName("MYPG");
     this->db.setUserName("postgres");
-    this->db.setPassword("a183153");
+    this->db.setPassword("!a183153");
     this->db.setPort(5432);
 
     if (this->db.open())

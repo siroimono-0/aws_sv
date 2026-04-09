@@ -129,6 +129,7 @@ private:
     QSqlDatabase db_lite;
     QTimer *p_timer_lite;
     QString path;
+    QString aws_psql_endPoint;
 
     Cpp_Module *p_Module;
     // WK_Soc *p_soc; Hub로 변경...
