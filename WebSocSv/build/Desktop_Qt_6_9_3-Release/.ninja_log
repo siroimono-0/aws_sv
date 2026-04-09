@@ -11,3 +11,17 @@
 350	5543	1775647925218195408	CMakeFiles/appWebSocSv.dir/Cpp_Module/DB_PostgreSQL.cpp.o	17dc794e58a734d
 349	5685	1775647925359188665	CMakeFiles/appWebSocSv.dir/appWebSocSv_autogen/mocs_compilation.cpp.o	67b6d38ec0a0e615
 5685	5807	1775647925481182830	appWebSocSv	d44a4d1392096ca1
+4	10	0	CMakeFiles/clean.additional	6e029c4b53639a93
+10	15	0	clean	a31eedcededa8236
+13	376	1775727142618021772	appWebSocSv_autogen/timestamp	76683460979ce1df
+13	376	1775727142618021772	appWebSocSv_autogen/mocs_compilation.cpp	76683460979ce1df
+13	376	1775727142618021772	/home/gray/gray/Qt_project/aws_sv/WebSocSv/build/Desktop_Qt_6_9_3-Release/appWebSocSv_autogen/timestamp	76683460979ce1df
+13	376	1775727142618021772	/home/gray/gray/Qt_project/aws_sv/WebSocSv/build/Desktop_Qt_6_9_3-Release/appWebSocSv_autogen/mocs_compilation.cpp	76683460979ce1df
+377	1880	1775727144126991406	CMakeFiles/appWebSocSv.dir/Cpp_Module/StatModel.cpp.o	5619fa12d11ecd78
+377	2715	1775727144960974605	CMakeFiles/appWebSocSv.dir/Cpp_Module/Cpp_Module.cpp.o	aa2ccebd5d4b4142
+376	3524	1775727145769958295	CMakeFiles/appWebSocSv.dir/main.cpp.o	482d676dfd9b8777
+377	3593	1775727145838956904	CMakeFiles/appWebSocSv.dir/Cpp_Module/Hub.cpp.o	8f36a16f9be6542a
+377	4100	1775727146346946655	CMakeFiles/appWebSocSv.dir/Cpp_Module/WK_Soc.cpp.o	41d7969d676e60a4
+376	4854	1775727147099931458	CMakeFiles/appWebSocSv.dir/appWebSocSv_autogen/mocs_compilation.cpp.o	67b6d38ec0a0e615
+377	5114	1775727147359926207	CMakeFiles/appWebSocSv.dir/Cpp_Module/DB_PostgreSQL.cpp.o	17dc794e58a734d
+5114	5249	1775727147494923480	appWebSocSv	d44a4d1392096ca1
